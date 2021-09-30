@@ -1,0 +1,29 @@
+categories:
+- conversations
+conversations:
+- - Hello
+  - Hi there!
+- - Hi
+  - Hello
+- - Heyy
+  - Hi there!
+- - How are you
+  - I am doing great.
+- - Can you help me
+  - Yeah sure what do you need.
+- - I am not able to login
+  - Dont worry reset the password you will get a mail and then login.
+- - I have a question
+  - Yes what is the question.
+- - Are you programmer
+  - Yes I am, I code everything and give the response.
+- - When were you made
+  - I was created on 9th August
+- - How do I import my data
+  - Just drag the data in proper location and import it
+- - Bye
+  - Goodbye
+  - Nice talking to you.
+  - Great talkingto you.
+- - 1 2 3 5 6
+  - I am not mathematician to decode this.
